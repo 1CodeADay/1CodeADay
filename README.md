@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1CodeADay&layout=compact&theme=radical)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1CodeADay&show_icons=true&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=1CodeADay)
