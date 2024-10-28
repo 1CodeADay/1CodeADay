@@ -1,5 +1,5 @@
 - 👋 Hi, I’m roddanso
-- 👀 I’m interested in programming.
+- 👀 I’m interested in programming and reading.
 - 🌱 I’m currently learning Python and doing an internship in Web Development (JavaScript and React) and Java.
 - 💞️ I’m looking to collaborate on projects.
 - ⚡ Fun fact: I'm a Jack of all trades.
